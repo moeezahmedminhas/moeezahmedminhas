@@ -4,16 +4,14 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/moeezminhas-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/moeezminhas/)
 [![Gmail Badge](https://img.shields.io/badge/moeezahmedpersonal@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:moeezahmedpersonal@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=moeezahmedminhas&label=PROFILE+VIEWS&style=plastic&color=blue)
 
 
 ## Hi there 👋,           
-#### I'm Moeez Ahmed, graduated from 👨‍💻 Bahria University Pursuing BSCS.  I am tech enthusiast, I love to build Mobile Applications and currently looking for a job.
+#### I'm Moeez Ahmed. I've did BSCS 👨‍💻 from Bahria University and graduated as a gold medalist 🥇.  I am tech enthusiast, I love to build Mobile Applications and currently looking for a job.
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
 ## 🧐 About Me
-☯ I'm a **Developer | Thinker | Learner | Problem Solver**
 
 - 🔭 I’m currently working on **Flutter**
 
