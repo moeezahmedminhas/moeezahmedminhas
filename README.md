@@ -1,3 +1,20 @@
+<!-- <img src="https://github.com/moeezahmedminhas/moeezahmedminhas/blob/master/hello.gif" alt = "hello" width="40px" height="40px"> -->
+<h1 align="center"> <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/numananees/">Moeez Ahmed</a>👨‍💻</h1>
+<!-- # Moeez Ahmed 👨‍💻 -->
+
+[![Linkedin Badge](https://img.shields.io/badge/moeezminhas-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/moeezminhas/)
+[![Gmail Badge](https://img.shields.io/badge/moeezahmedpersonal@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:moeezahmedpersonal@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=moeezahmedminhas&label=PROFILE+VIEWS&style=plastic&color=blue)
+
+
+## Hi there 👋,           
+#### I'm Moeez Ahmed, graduated from 👨‍💻 Bahria University Pursuing BSCS.  I am tech enthusiast, I love to build Mobile Applications and currently looking for a job.
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
+
+## 🧐 About Me
+☯ I'm a **Developer | Thinker | Learner | Problem Solver**
+
 <h1 align="center">Hi 👋, I'm Moeez Ahmed</h1>
 <h3 align="center">A passionate Flutter developer from Lahore, Pakistan</h3>
 
