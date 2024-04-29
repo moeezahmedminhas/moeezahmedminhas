@@ -15,9 +15,6 @@
 ## 🧐 About Me
 ☯ I'm a **Developer | Thinker | Learner | Problem Solver**
 
-<h1 align="center">Hi 👋, I'm Moeez Ahmed</h1>
-<h3 align="center">A passionate Flutter developer from Lahore, Pakistan</h3>
-
 - 🔭 I’m currently working on **Flutter**
 
 - 🌱 I’m currently learning **Artificial Intelligence**
