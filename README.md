@@ -1,5 +1,5 @@
 <!-- <img src="https://github.com/moeezahmedminhas/moeezahmedminhas/blob/master/hello.gif" alt = "hello" width="40px" height="40px"> -->
-<h1 align="center"> <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/numananees/">Moeez Ahmed</a>👨‍💻</h1>
+<h1 align="center"> <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/moeezminhas/">Moeez Ahmed</a>👨‍💻</h1>
 <!-- # Moeez Ahmed 👨‍💻 -->
 
 [![Linkedin Badge](https://img.shields.io/badge/moeezminhas-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/moeezminhas/)
