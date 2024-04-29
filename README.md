@@ -19,7 +19,10 @@
 
 - 👯 I’m looking to collaborate on **AI and mobile dev related projects**
 
+- 🔭 My Resume: <a href="https://drive.google.com/file/d/1PgNvUr1bFXxd7TqBW65m7i3SrD6bc1lg/view" target="_blank">Link</a>
+
 - 📫 How to reach me **moeezahmedpersonal@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
