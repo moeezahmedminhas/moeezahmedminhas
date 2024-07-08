@@ -7,13 +7,15 @@
 
 
 ## Hi there 👋,           
-#### I'm Moeez Ahmed. I've did BSCS 👨‍💻 from Bahria University and graduated as a gold medalist 🥇.  I am tech enthusiast, I love to build Mobile Applications and currently looking for a job.
+#### I'm Moeez Ahmed. I've did BSCS 👨‍💻 from Bahria University and graduated as a gold medalist 🥇.  I am tech enthusiast, I love to build Mobile Applications and worked on Flutter based mobile applications. I am currently an iOS developer in i2c.
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400px" />
 
 ## 🧐 About Me
 
-- 🔭 I’m currently working on **Flutter**
+- 📱 I’m currently working as an **iOS(UIKIT)** developer at **i2c**
+
+- 🦋 I previously worked as a **Flutter** developer at **Visiomate**
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
