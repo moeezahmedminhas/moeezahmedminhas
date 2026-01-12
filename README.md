@@ -11,17 +11,7 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400px" />
 
-## 🧐 About Me
-
-- 📱 I’m currently working as an **iOS(UIKIT)** developer at **i2c**
-
-- 🦋 I previously worked as a **Flutter** developer at **Visiomate**
-
-- 🌱 I’m currently learning **Artificial Intelligence**
-
-- 👯 I’m looking to collaborate on **AI and mobile dev related projects**
-
-- 🔭 My Resume: <a href="https://drive.google.com/file/d/1PgNvUr1bFXxd7TqBW65m7i3SrD6bc1lg/view" target="_blank">Link</a>
+- 🔭 My Resume: <a href="https://drive.google.com/file/d/1kDJ02Cu7_0vWBSlkP9K5PKDtGcdQxePO/view" target="_blank">Link</a>
 
 - 📫 How to reach me **moeezahmedpersonal@gmail.com**
 
